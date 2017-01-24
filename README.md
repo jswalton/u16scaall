@@ -1,2 +1,7 @@
 # u16scaall
-Docker image with ubuntu 16.04 + scala + all services &amp; tools
+Shippable CI image for Scala on Ubuntu 14.04 with all available services. Available versions are:
+
+1. 2.9.3
+2. 2.10.6
+3. 2.11.8
+
