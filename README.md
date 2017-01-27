@@ -1,5 +1,5 @@
 # u16scaall
-Shippable CI image for Scala on Ubuntu 14.04 with all available services. Available versions are:
+Shippable CI image for Scala on Ubuntu 16.04 with all available services. Available versions are:
 
 1. 2.9.3
 2. 2.10.6
