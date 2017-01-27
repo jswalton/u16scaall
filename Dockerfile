@@ -2,4 +2,4 @@ FROM drydock/u16javall:{{%TAG%}}
 
 ADD . /u16scaall
 
-RUN /u16scaall/install.sh && rm -rf /u16scaall
+RUN /u16scaall/install.sh 
