@@ -54,7 +54,7 @@ dockerPush() {
   then
     echo "Pushing Tag " $IMAGE_NAME:$GIT_TAG
     sudo docker push $IMAGE_NAME:$GIT_TAG
-    echo "Completed Pushing Tag" $IMAGE_NAME:prod
+    echo "Completed Pushing Tag" $IMAGE_NAME:$GIT_TAG
   else
     echo "Pushing Tag " $IMAGE_NAME:tip
     sudo docker push $IMAGE_NAME:tip
