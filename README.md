@@ -5,5 +5,4 @@ Shippable CI image for Scala on Ubuntu 16.04 with all available services. Availa
 2. 2.11.12
 3. 2.12.4
 
-For list of supported services, please refer [u14all](https://github.com/dry-dock/u14all)
-
+For list of supported services, please refer [u16all](https://github.com/dry-dock/u16all)
