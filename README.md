@@ -4,4 +4,9 @@ Shippable CI image for Scala on Ubuntu 16.04 with all available services. Availa
 1. 2.11.12
 2. 2.12.7
 
+u16scaall Docker Hub repo: [drydock/u16scallall](https://hub.docker.com/r/drydock/u16scaall/)
+
+
+**Services:**
+
 For list of supported services, please refer [u16all](https://github.com/dry-dock/u16all)
