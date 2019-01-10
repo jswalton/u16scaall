@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-SCALA_VER=2.12.7
+SCALA_VER=2.12.8
 echo "================= Install Scala $SCALA_VER ==================="
 wget -nv http://downloads.lightbend.com/scala/$SCALA_VER/scala-"$SCALA_VER".tgz
 tar xzf scala-"$SCALA_VER".tgz -C /usr/local && rm -f scala-"$SCALA_VER".tgz

@@ -2,7 +2,7 @@
 Shippable CI image for Scala on Ubuntu 16.04 with all available services. Available versions are:
 
 1. 2.11.12
-2. 2.12.7
+2. 2.12.8
 
 u16scaall Docker Hub repo: [drydock/u16scaall](https://hub.docker.com/r/drydock/u16scaall/)
 
